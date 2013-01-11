@@ -1,0 +1,1 @@
+To get stated, just bundle install and you are good to start writing tests
