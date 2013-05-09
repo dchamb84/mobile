@@ -4,9 +4,8 @@
 }
 
 #top-panel img:first-child {
-  display:none;
+  background-image: none;
   background: url(../images/topbar.png) repeat-x;
-  background-image: url(http://autotest.britishcouncil.net/static/a674a650/images/topbar.png);
 }
 
 #search-box {
